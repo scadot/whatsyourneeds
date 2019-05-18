@@ -1,0 +1,45 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "whatsyourneeds",
+    "packageName": "com.sca.wyn.application",
+    "packageFolder": "com/sca/wyn/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": "spring-websocket",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.0.1",
+    "jwtSecretKey": "YzI2MDU4MTM5OGE5YTEyODYwMmE3ODExYzlmNDkxNTRlYzZiYTJmOGQ0MjQwOGMxZjM5MTcyZTFkYmZkZGVjZTg1OTY1ZjRlYzQ0MjE4ODMwZWZjYTZhNWM4NGIzYjhmY2QzNGNhOTA0ZTU4YjMxM2U3M2RkNDFlZjlhYWMxMTY=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "scadot",
+  "repository-name": "whatsyourneeds"
+}
